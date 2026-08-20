@@ -19,7 +19,7 @@ export function InstagramIcon({ className = "h-6 w-6" }: { className?: string })
       <defs>
         <radialGradient id="ig-grad" cx="28%" cy="102%" r="130%">
           <stop offset="0%" stopColor="#FFDD55" />
-          <stop offset="25%" stopColor="#FF felt" />
+          <stop offset="25%" stopColor="#FFB13D" />
           <stop offset="26%" stopColor="#FF543E" />
           <stop offset="60%" stopColor="#C837AB" />
           <stop offset="100%" stopColor="#3771C8" />
