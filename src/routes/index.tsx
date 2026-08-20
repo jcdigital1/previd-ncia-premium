@@ -75,7 +75,7 @@ function Index() {
         </Reveal>
 
         <Reveal delay={120}>
-          <h1 className="mt-3 text-3xl leading-tight font-medium tracking-wide sm:text-4xl">
+          <h1 className="mt-0.5 text-3xl leading-tight font-medium tracking-wide sm:text-4xl">
             Jéssica Rodrigues Advocacia
           </h1>
           <p className="mt-1.5 text-[0.7rem] tracking-[0.32em] text-gold-soft/80 uppercase">
